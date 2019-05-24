@@ -1,0 +1,21 @@
+{
+  "name": "moven-cordova-plugin-webintent",
+  "description": "WebIntent Android Plugin for Cordova 3.X",
+  "version": "1.0.0",
+  "homepage": "http://github.com/moven/moven-cordova-plugin-webintent#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moven/moven-cordova-plugin-webintent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moven/moven-cordova-plugin-webintent/issues"
+  },
+  "cordova": {
+    "id": "moven-cordova-plugin-webintent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "Boris Smus",
+  "license": "MIT"
+}
