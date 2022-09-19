@@ -1,3 +1,5 @@
+[![CodeQL](../../workflows/CodeQL/badge.svg)](../../actions?query=workflow%3ACodeQL)
+
 # WebIntent Android Plugin for Cordova 3.X #
 By Boris Smus
 
